@@ -1,0 +1,8 @@
+{
+  "name": "antd-iconfont",
+  "version": "2.10.0",
+  "main": "iconfont.js",
+  "repository": "https://github.com/builden/antd-iconfont.git",
+  "author": "builden <billdeng@qq.com>",
+  "license": "MIT"
+}
